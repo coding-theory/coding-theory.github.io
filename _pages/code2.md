@@ -1,11 +1,10 @@
 ---
 permalink: /
-title: "AHU-coding"
-excerpt: "About me"
+title: "Code2"
+excerpt: "/code2/"
 author_profile: false
 redirect_from: 
-  - /about/
-  - /about.html
+  - /direct_to_code2
 ---
 
 # Quaternary linear codes with one-dimensional Hermitian hull
