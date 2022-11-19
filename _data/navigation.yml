@@ -23,3 +23,6 @@ main:
 
   - title: "Test"
     url: /test/
+
+   - title: "Test2"
+     url: /test2/
