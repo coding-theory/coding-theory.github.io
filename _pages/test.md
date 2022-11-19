@@ -4,7 +4,7 @@ title: "Test"
 permalink: /test/
 author_profile: false
 redirect_from:
-  - /test
+<!--   - /test -->
 ---
 
 {% include base_path %}
