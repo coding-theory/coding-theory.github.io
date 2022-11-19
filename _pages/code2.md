@@ -1,7 +1,7 @@
 ---
-permalink: /
+layout: archive
 title: "Code2"
-excerpt: "/code2/"
+permalink: /code2/
 author_profile: false
 redirect_from: 
   - /direct_to_code2
