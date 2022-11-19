@@ -7,6 +7,8 @@ redirect_from:
   - /direct_to_code2
 ---
 
+{% include base_path %}
+
 # Quaternary linear codes with one-dimensional Hermitian hull
 
 ### Quaternary linear codes with one-dimensional Hermitian hull for $n≤12$.
