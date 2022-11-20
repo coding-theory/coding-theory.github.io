@@ -11,6 +11,8 @@ redirect_from:
 
 # Quaternary linear codes with one-dimensional Hermitian hull
 
+Database for the paper "A conjecture on optimal quaternary linear codes with one-dimensional Hermitian hull"
+
 ### Quaternary linear codes with one-dimensional Hermitian hull for $n≤12$.
 
 n=2
