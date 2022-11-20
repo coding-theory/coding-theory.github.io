@@ -11,6 +11,8 @@ redirect_from:
 
 # LCD codes
 
+Database for the paper "Improved upper and lower bounds for LCD codes"
+
 ### Binary LCD codes
 
 Length 29  
