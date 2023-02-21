@@ -11,3 +11,4 @@ redirect_from:
 
 ## Binary linear codes with one-dimensional hull
 
+[[2,1]](https://AHU-coding.github.io/files/1-[2,1].txt)
