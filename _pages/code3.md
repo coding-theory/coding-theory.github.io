@@ -123,7 +123,7 @@ redirect_from:
 [12, 6]](https://AHU-coding.github.io/files/6-[12,6].txt)  
 [[13, 6]](https://AHU-coding.github.io/files/6-[13,6].txt), [[13, 7]](https://AHU-coding.github.io/files/6-[13,7].txt)  
 
-## Table 10: Optimal binary linear codes with six-dimensional hull (h=6)
+## Table 12: Optimal binary linear codes with six-dimensional hull (h=6)
 
 [[12, 6, 4]](https://AHU-coding.github.io/files/6-[12,6,4].txt)  
 [[13, 6, 4]](https://AHU-coding.github.io/files/6-[13,6,4].txt), [[13, 7, 3]](https://AHU-coding.github.io/files/6-[13,7,3].txt)  
