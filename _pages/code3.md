@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Binary linear codes with one-dimensional hull
+## Table 1: Binary linear codes with one-dimensional hull (h=1)
 
 [[2, 1]](https://AHU-coding.github.io/files/1-[2,1].txt)  
 [[3, 1]](https://AHU-coding.github.io/files/1-[3,1].txt), [[3, 2]](https://AHU-coding.github.io/files/1-[3,2].txt)  
@@ -23,7 +23,7 @@ redirect_from:
 [[11, 1]](https://AHU-coding.github.io/files/1-[11,1].txt), [[11, 2]](https://AHU-coding.github.io/files/1-[11,2].txt), [[11, 3]](https://AHU-coding.github.io/files/1-[11,3].txt), [[11, 4]](https://AHU-coding.github.io/files/1-[11,4].txt), [[11, 5]](https://AHU-coding.github.io/files/1-[11,5].txt), [[11, 6]](https://AHU-coding.github.io/files/1-[11,6].txt), [[11, 7]](https://AHU-coding.github.io/files/1-[11,7].txt), [[11, 8]](https://AHU-coding.github.io/files/1-[11,8].txt), [[11, 9]](https://AHU-coding.github.io/files/1-[11,9].txt), [[11, 10]](https://AHU-coding.github.io/files/1-[11,10].txt)  
 [[12, 1]](https://AHU-coding.github.io/files/1-[12,1].txt), [[12, 2]](https://AHU-coding.github.io/files/1-[12,2].txt), [[12, 3]](https://AHU-coding.github.io/files/1-[12,3].txt), [[12, 4]](https://AHU-coding.github.io/files/1-[12,4].txt), [[12, 5]](https://AHU-coding.github.io/files/1-[12,5].txt), [[12, 6]](https://AHU-coding.github.io/files/1-[12,6].txt), [[12, 7]](https://AHU-coding.github.io/files/1-[12,7].txt), [[12, 8]](https://AHU-coding.github.io/files/1-[12,8].txt), [[12, 9]](https://AHU-coding.github.io/files/1-[12,9].txt), [[12, 10]](https://AHU-coding.github.io/files/1-[12,10].txt), [[12, 11]](https://AHU-coding.github.io/files/1-[12,11].txt)  
 
-## Optimal binary linear codes with one-dimensional hull
+## Table 2: Optimal binary linear codes with one-dimensional hull (h=1)
 
 [[2, 1, 2]](https://AHU-coding.github.io/files/1-[2,1,2].txt)  
 [[3, 1, 2]](https://AHU-coding.github.io/files/1-[3,1,2].txt), [[3, 2, 1]](https://AHU-coding.github.io/files/1-[3,2,1].txt)   
@@ -38,3 +38,17 @@ redirect_from:
 [[12, 1, 12]](https://AHU-coding.github.io/files/1-[12,1,12].txt), [[12, 2, 7]](https://AHU-coding.github.io/files/1-[12,2,7].txt), [[12, 3, 6]](https://AHU-coding.github.io/files/1-[12,3,6].txt), [[12, 4, 5]](https://AHU-coding.github.io/files/1-[12,4,5].txt), [[12, 5, 4]](https://AHU-coding.github.io/files/1-[12,5,4].txt), [[12, 6, 4]](https://AHU-coding.github.io/files/1-[12,6,4].txt), [[12, 7, 4]](https://AHU-coding.github.io/files/1-[12,7,4].txt), [[12, 8, 3]](https://AHU-coding.github.io/files/1-[12,8,3].txt), [[12, 9, 2]](https://AHU-coding.github.io/files/1-[12,9,2].txt), [[12, 10, 1]](https://AHU-coding.github.io/files/1-[12,10,1].txt), [[12, 11, 2]](https://AHU-coding.github.io/files/1-[12,11,2].txt)  
 [[13, 1, 12]](https://AHU-coding.github.io/files/1-[13,1,12].txt), [[13, 2, 8]](https://AHU-coding.github.io/files/1-[13,2,8].txt), [[13, 3, 6]](https://AHU-coding.github.io/files/1-[13,3,6].txt), [[13, 4, 6]](https://AHU-coding.github.io/files/1-[13,4,6].txt), [[13, 5, 5]](https://AHU-coding.github.io/files/1-[13,5,5].txt), [[13, 6, 4]](https://AHU-coding.github.io/files/1-[13,6,4].txt), [[13, 7, 4]](https://AHU-coding.github.io/files/1-[13,7,4].txt), [[13, 8, 3]](https://AHU-coding.github.io/files/1-[13,8,3].txt), [[13, 9, 2]](https://AHU-coding.github.io/files/1-[13,9,2].txt), [[13, 10, 2]](https://AHU-coding.github.io/files/1-[13,10,2].txt), [[13, 11, 2]](https://AHU-coding.github.io/files/1-[13,11,2].txt), [[13, 12, 1]](https://AHU-coding.github.io/files/1-[13,12,1].txt)  
 [[14, 1, 14]](https://AHU-coding.github.io/files/1-[14,1,14].txt), [[14, 2, 8]](https://AHU-coding.github.io/files/1-[14,2,8].txt), [[14, 3, 7]](https://AHU-coding.github.io/files/1-[14,3,7].txt), [[14, 4, 6]](https://AHU-coding.github.io/files/1-[14,4,6].txt), [[14, 5, 6]](https://AHU-coding.github.io/files/1-[14,5,6].txt), [[14, 6, 5]](https://AHU-coding.github.io/files/1-[14,6,5].txt), [[14, 7, 4]](https://AHU-coding.github.io/files/1-[14,7,4].txt), [[14, 8, 4]](https://AHU-coding.github.io/files/1-[14,8,4].txt), [[14, 9, 3]](https://AHU-coding.github.io/files/1-[14,9,3].txt), [[14, 10, 2]](https://AHU-coding.github.io/files/1-[14,10,2].txt), [[14, 11, 2]](https://AHU-coding.github.io/files/1-[14,11,2].txt), [[14, 12, 1]](https://AHU-coding.github.io/files/1-[14,12,1].txt), [[14, 13, 2]](https://AHU-coding.github.io/files/1-[14,13,2].txt)
+
+## Table 3: Binary linear codes with two-dimensional hull (h=2)
+
+[[4, 2]](https://AHU-coding.github.io/files/2-[4,2].txt)  
+[[5, 2]](https://AHU-coding.github.io/files/2-[5,2].txt), [[5, 3]](https://AHU-coding.github.io/files/2-[5,3].txt)  
+[[6, 2]](https://AHU-coding.github.io/files/2-[6,2].txt), [[6, 3]](https://AHU-coding.github.io/files/2-[6,3].txt), [[6, 4]](https://AHU-coding.github.io/files/2-[6,4].txt)  
+[[7, 2]](https://AHU-coding.github.io/files/2-[7,2].txt), [[7, 3]](https://AHU-coding.github.io/files/2-[7,3].txt), [[7, 4]](https://AHU-coding.github.io/files/2-[7,4].txt), [[7, 5]](https://AHU-coding.github.io/files/2-[7,5].txt)  
+
+## Table 4: Optimal binary linear codes with two-dimensional hull (h=2)
+
+[[4, 2, 2]](https://AHU-coding.github.io/files/2-[4,2,2].txt)  
+[[5, 2, 2]](https://AHU-coding.github.io/files/2-[5,2,2].txt), [[5, 3, 1]](https://AHU-coding.github.io/files/2-[5,3,1].txt)  
+[[6, 2, 4]](https://AHU-coding.github.io/files/2-[6,2,4].txt), [[6, 3, 3]](https://AHU-coding.github.io/files/2-[6,3,3].txt), [[6, 4, 2]](https://AHU-coding.github.io/files/2-[6,4,2].txt)  
+[[7, 2, 4]](https://AHU-coding.github.io/files/2-[7,2,4].txt), [[7, 3, 3]](https://AHU-coding.github.io/files/2-[7,3,3].txt), [[7, 4, 2]](https://AHU-coding.github.io/files/2-[7,4,2].txt), [[7, 5, 1]](https://AHU-coding.github.io/files/2-[7,5,1].txt)  
