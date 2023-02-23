@@ -120,7 +120,7 @@ redirect_from:
 
 ## Table 11: Binary linear codes with six-dimensional hull (h=6)
 
-[12, 6]](https://AHU-coding.github.io/files/6-[12,6].txt)  
+[[12, 6]](https://AHU-coding.github.io/files/6-[12,6].txt)  
 [[13, 6]](https://AHU-coding.github.io/files/6-[13,6].txt), [[13, 7]](https://AHU-coding.github.io/files/6-[13,7].txt)  
 
 ## Table 12: Optimal binary linear codes with six-dimensional hull (h=6)
