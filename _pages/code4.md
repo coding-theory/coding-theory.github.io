@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Code1"
-permalink: /code1/
+title: "Code4"
+permalink: /code4/
 author_profile: false
 redirect_from: 
-  - /direct_to_code1
+  - /direct_to_code4
 ---
 
 {% include base_path %}
