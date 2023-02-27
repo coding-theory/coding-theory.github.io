@@ -16,11 +16,11 @@ Database for the paper ``On the minimum distances of optimal ternary linear code
 
 n=3
 
-[3, 1, 3]   Cyclic Linear Code over GF(3)  
+[3, 1, 3] Cyclic Linear Code over GF(3)  
 Generator matrix:  
 [1 1 1]  
 
-[3, 2, 2]   Cyclic Linear Code over GF(3)  
+[3, 2, 2] Cyclic Linear Code over GF(3)  
 Generator matrix:  
 [1 0 2]  
 [0 1 2]  
@@ -29,16 +29,16 @@ Generator matrix:
 
 n=4
 
-[4, 1, 3]   Linear Code over GF(3)  
+[4, 1, 3] Linear Code over GF(3)  
 Generator matrix:  
 [1 1 1 0]  
 
-[4, 2, 2]   Linear Code over GF(3)  
+[4, 2, 2] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 1 0]  
 [0 1 1 0]  
 
-[4, 3, 1]   Linear Code over GF(3)  
+[4, 3, 1] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 1]  
 [0 1 0 1]  
@@ -48,22 +48,22 @@ Generator matrix:
 
 n=5
 
-[5, 1, 3]   Linear Code over GF(3)  
+[5, 1, 3] Linear Code over GF(3)  
 Generator matrix:  
 [1 1 1 0 0]  
 
-[5, 2, 3]   Linear Code over GF(3)  
+[5, 2, 3] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 2 1 1]  
 [0 1 1 1 0]  
 
-[5, 3, 2]   Linear Code over GF(3)  
+[5, 3, 2] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 1]  
 [0 1 0 1 0]  
 [0 0 1 1 0]  
 
-[5, 4, 1]   Linear Code over GF(3)  
+[5, 4, 1] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 1]  
 [0 1 0 0 1]  
@@ -74,29 +74,29 @@ Generator matrix:
 
 n=6
 
-[6, 1, 6]   Cyclic Linear Code over GF(3)  
+[6, 1, 6] Cyclic Linear Code over GF(3)  
 Generator matrix:  
 [1 1 1 1 1 1]  
 
-[6, 2, 4]   Quasicyclic of degree 3 Linear Code over GF(3)  
+[6, 2, 4] Quasicyclic of degree 3 Linear Code over GF(3)  
 Generator matrix:  
 [1 0 1 1 0 1]  
 [0 1 1 1 1 0]  
 
-[6, 3, 3]   Linear Code over GF(3)  
+[6, 3, 3] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 1 0 1]  
 [0 1 0 2 0 1]  
 [0 0 1 2 2 0]  
 
-[6, 4, 2]   Linear Code over GF(3)  
+[6, 4, 2] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 2 0]  
 [0 1 0 0 0 2]  
 [0 0 1 0 1 2]  
 [0 0 0 1 2 1]  
 
-[6, 5, 2]   Cyclic Linear Code over GF(3)  
+[6, 5, 2] Cyclic Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 2]  
 [0 1 0 0 0 2]  
@@ -108,29 +108,29 @@ Generator matrix:
 
 n=7
 
-[7, 1, 6]   Linear Code over GF(3)  
+[7, 1, 6] Linear Code over GF(3)  
 Generator matrix:  
 [1 1 1 1 1 1 0]  
 
-[7, 2, 5]   Linear Code over GF(3)  
+[7, 2, 5] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 2 1 1 2 0]  
 [0 1 1 2 0 2 1]  
 
-[7, 3, 4]   Linear Code over GF(3)  
+[7, 3, 4] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 1 2 2 0]  
 [0 1 0 1 1 1 1]  
 [0 0 1 2 2 1 1]  
 
-[7, 4, 3]   Linear Code over GF(3)  
+[7, 4, 3] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 1 2]  
 [0 1 0 0 1 2 2]  
 [0 0 1 0 2 1 0]  
 [0 0 0 1 2 2 1]  
 
-[7, 5, 2]   Linear Code over GF(3)  
+[7, 5, 2] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 1 1]  
 [0 1 0 0 0 0 2]  
@@ -138,7 +138,7 @@ Generator matrix:
 [0 0 0 1 0 1 2]  
 [0 0 0 0 1 1 1]  
 
-[7, 6, 1]   Linear Code over GF(3)  
+[7, 6, 1] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 1]  
 [0 1 0 0 0 0 1]  
@@ -151,29 +151,29 @@ Generator matrix:
 
 n=8
 
-[8, 1, 6]   Linear Code over GF(3)  
+[8, 1, 6] Linear Code over GF(3)  
 Generator matrix:  
 [1 1 1 1 1 1 0 0]  
 
-[8, 2, 5]   Linear Code over GF(3)  
+[8, 2, 5] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 2 1 1 2 0 0]  
 [0 1 1 2 0 2 1 0]  
 
-[8, 3, 4]   Linear Code over GF(3)  
+[8, 3, 4] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 1 2 2 0 0]  
 [0 1 0 1 1 1 1 0]  
 [0 0 1 2 2 1 1 0]  
 
-[8, 4, 3]   Linear Code over GF(3)  
+[8, 4, 3] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 1 1 1 0]  
 [0 1 0 0 2 0 1 0]  
 [0 0 1 0 2 2 0 0]  
 [0 0 0 1 0 2 1 0]  
 
-[8, 5, 3]   Linear Code over GF(3)  
+[8, 5, 3] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 1 1]  
 [0 1 0 0 0 2 1 2]  
@@ -181,7 +181,7 @@ Generator matrix:
 [0 0 0 1 0 1 1 1]  
 [0 0 0 0 1 2 2 1]  
 
-[8, 6, 2]   Linear Code over GF(3)  
+[8, 6, 2] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 2 2]  
 [0 1 0 0 0 0 2 0]  
@@ -190,7 +190,7 @@ Generator matrix:
 [0 0 0 0 1 0 2 0]  
 [0 0 0 0 0 1 2 0]  
 
-[8, 7, 1]   Linear Code over GF(3)  
+[8, 7, 1] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 2 0]  
 [0 1 0 0 0 0 2 0]  
@@ -204,29 +204,29 @@ Generator matrix:
 
 n=9
 
-[9, 1, 9]   Cyclic Linear Code over GF(3)  
+[9, 1, 9] Cyclic Linear Code over GF(3)  
 Generator matrix:  
 [1 1 1 1 1 1 1 1 1]  
 
-[9, 2, 6]   Linear Code over GF(3)  
+[9, 2, 6] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 2 1 1 1 0 2 1]  
 [0 1 1 1 1 1 1 1 0]  
 
-[9, 3, 5]   Linear Code over GF(3)  
+[9, 3, 5] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 2 1 1 1 1 2]  
 [0 1 0 1 1 0 0 1 2]  
 [0 0 1 0 0 1 1 1 1]  
 
-[9, 4, 4]   Linear Code over GF(3)  
+[9, 4, 4] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 2 2 2 1 1]  
 [0 1 0 0 1 1 0 2 0]  
 [0 0 1 0 1 0 1 2 0]  
 [0 0 0 1 0 1 1 2 0]  
 
-[9, 5, 3]   Linear Code over GF(3)  
+[9, 5, 3] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 1 1 0]  
 [0 1 0 0 0 2 1 2 0]  
@@ -234,7 +234,7 @@ Generator matrix:
 [0 0 0 1 0 1 1 1 0]  
 [0 0 0 0 1 2 2 1 0]  
 
-[9, 6, 3]   Linear Code over GF(3)  
+[9, 6, 3] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 2 1 0]  
 [0 1 0 0 0 0 0 1 2]  
@@ -243,7 +243,7 @@ Generator matrix:
 [0 0 0 0 1 0 1 1 1]  
 [0 0 0 0 0 1 1 0 1]  
 
-[9, 7, 2]   Linear Code over GF(3)  
+[9, 7, 2] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 2]  
 [0 1 0 0 0 0 0 2 2]  
@@ -253,7 +253,7 @@ Generator matrix:
 [0 0 0 0 0 1 0 2 1]  
 [0 0 0 0 0 0 1 2 2]  
 
-[9, 8, 2]   Cyclic Linear Code over GF(3)  
+[9, 8, 2] Cyclic Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 2]  
 [0 1 0 0 0 0 0 0 2]  
@@ -268,29 +268,29 @@ Generator matrix:
 
 n=10
 
-[10, 1, 9]   Linear Code over GF(3)  
+[10, 1, 9] Linear Code over GF(3)  
 Generator matrix:  
 [1 1 1 1 1 1 1 1 1 0]  
 
-[10, 2, 7]   Linear Code over GF(3)  
+[10, 2, 7] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 1 0 1 0 2 1 2 1]  
 [0 1 1 1 1 1 1 1 0 0]  
 
-[10, 3, 6]   Linear Code over GF(3)  
+[10, 3, 6] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 2 1 1 1 2 1 2]  
 [0 1 0 1 1 0 0 1 1 2]  
 [0 0 1 0 0 1 1 1 1 1]  
 
-[10, 4, 5]   Linear Code over GF(3)  
+[10, 4, 5] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 2 2 0 1 1 2]  
 [0 1 0 0 0 2 2 1 2 0]  
 [0 0 1 0 1 1 2 1 1 2]  
 [0 0 0 1 0 0 1 2 2 2]  
 
-[10, 5, 4]   Linear Code over GF(3)  
+[10, 5, 4] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 2 0 2 0 1]  
 [0 1 0 0 0 2 2 1 0 0]  
@@ -298,7 +298,7 @@ Generator matrix:
 [0 0 0 1 0 1 1 0 1 0]  
 [0 0 0 0 1 1 0 1 1 0]  
 
-[10, 6, 3]   Linear Code over GF(3)  
+[10, 6, 3] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 2 1 1 1]  
 [0 1 0 0 0 0 0 1 2 0]  
@@ -307,7 +307,7 @@ Generator matrix:
 [0 0 0 0 1 0 1 2 0 1]  
 [0 0 0 0 0 1 1 1 1 1]  
 
-[10, 7, 2]   Linear Code over GF(3)  
+[10, 7, 2] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 1 0 1]  
 [0 1 0 0 0 0 0 1 1 2]  
@@ -317,7 +317,7 @@ Generator matrix:
 [0 0 0 0 0 1 0 1 2 1]  
 [0 0 0 0 0 0 1 1 2 1]  
 
-[10, 8, 2]   Linear Code over GF(3)  
+[10, 8, 2] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 2]  
 [0 1 0 0 0 0 0 2 0 1]  
@@ -328,7 +328,7 @@ Generator matrix:
 [0 0 0 0 0 0 1 2 0 2]  
 [0 0 0 0 0 0 0 0 1 1]  
 
-[10, 9, 1]   Linear Code over GF(3)  
+[10, 9, 1] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 2 0]  
 [0 1 0 0 0 0 0 0 2 0]  
@@ -344,29 +344,29 @@ Generator matrix:
 
 n=11
 
-[11, 1, 9]   Linear Code over GF(3)  
+[11, 1, 9] Linear Code over GF(3)  
 Generator matrix:  
 [1 1 1 1 1 1 1 1 1 0 0]  
 
-[11, 2, 8]   Linear Code over GF(3)  
+[11, 2, 8] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 1 0 1 0 2 2 1 2 1]  
 [0 1 1 1 1 1 1 1 1 0 0]  
 
-[11, 3, 7]   Linear Code over GF(3)  
+[11, 3, 7] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 2 2 2 1 0 2 2 0]  
 [0 1 0 1 0 1 2 2 2 0 2]  
 [0 0 1 0 1 1 1 1 1 2 2]  
 
-[11, 4, 5]   Linear Code over GF(3)  
+[11, 4, 5] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 2 2 0 1 1 2 0]  
 [0 1 0 0 0 2 2 1 2 0 0]  
 [0 0 1 0 1 1 2 1 1 2 0]  
 [0 0 0 1 0 0 1 2 2 2 0]  
 
-[11, 5, 5]   Linear Code over GF(3)  
+[11, 5, 5] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 2 1 0 1 1 1]  
 [0 1 0 0 0 1 1 0 1 2 0]  
@@ -374,7 +374,7 @@ Generator matrix:
 [0 0 0 1 0 0 2 0 1 2 1]  
 [0 0 0 0 1 0 0 1 1 1 2]  
 
-[11, 6, 4]   Linear Code over GF(3)  
+[11, 6, 4] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 1 1 2 1 2]  
 [0 1 0 0 0 0 1 1 0 0 1]  
@@ -383,7 +383,7 @@ Generator matrix:
 [0 0 0 0 1 0 1 0 0 1 1]  
 [0 0 0 0 0 1 1 2 2 2 2]  
 
-[11, 7, 3]   Linear Code over GF(3)  
+[11, 7, 3] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 1 0 2 1 1]  
 [0 1 0 0 0 0 2 0 1 1 2]  
@@ -393,7 +393,7 @@ Generator matrix:
 [0 0 0 0 0 1 0 0 0 1 1]  
 [0 0 0 0 0 0 0 1 1 1 0]  
 
-[11, 8, 3]   Linear Code over GF(3)  
+[11, 8, 3] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 2 0 1 1]  
 [0 1 0 0 0 0 0 2 0 0 2]  
@@ -405,7 +405,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 1 2 0 2]  
 [0 0 0 0 0 0 0 0 0 1 1]  
 
-[11, 9, 2]   Linear Code over GF(3)  
+[11, 9, 2] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 1 0]  
 [0 1 0 0 0 0 0 0 0 1 0]  
@@ -417,7 +417,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 1 0 2 0]  
 [0 0 0 0 0 0 0 0 1 2 0]  
 
-[11, 10, 1]   Linear Code over GF(3)  
+[11, 10, 1] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 2 0 0]  
 [0 1 0 0 0 0 0 0 2 0 0]  
@@ -434,29 +434,29 @@ Generator matrix:
 
 n=12
 
-[12, 1, 12]   Cyclic Linear Code over GF(3)  
+[12, 1, 12] Cyclic Linear Code over GF(3)  
 Generator matrix:  
 [1 1 1 1 1 1 1 1 1 1 1 1]  
 
-[12, 2, 8]   Linear Code over GF(3)  
+[12, 2, 8] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 1 0 1 0 2 2 1 2 1 0]  
 [0 1 1 1 1 1 1 1 1 0 0 0]  
 
-[12, 3, 7]   Linear Code over GF(3)  
+[12, 3, 7] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 2 2 0 2 1 0 2 2 1]  
 [0 1 0 0 0 0 1 1 1 1 1 1]  
 [0 0 1 0 1 1 2 2 1 1 0 0]  
 
-[12, 4, 6]   Linear Code over GF(3)  
+[12, 4, 6] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 2 1 1 1 0 2 2 1]  
 [0 1 0 0 0 0 0 1 1 1 1 1]  
 [0 0 1 0 0 1 1 2 1 1 0 0]  
 [0 0 0 1 1 1 1 1 0 0 1 0]  
 
-[12, 5, 6]   Linear Code over GF(3)  
+[12, 5, 6] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 2 0 1 0 2 2 1]  
 [0 1 0 0 0 0 0 1 1 1 1 1]  
@@ -464,7 +464,7 @@ Generator matrix:
 [0 0 0 1 0 1 2 2 1 1 0 0]  
 [0 0 0 0 1 1 1 2 0 2 0 1]  
 
-[12, 6, 5]   Linear Code over GF(3)  
+[12, 6, 5] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 1 0 1 0 2 2]  
 [0 1 0 0 0 0 0 0 1 1 1 1]  
@@ -473,7 +473,7 @@ Generator matrix:
 [0 0 0 0 1 0 1 2 1 0 1 0]  
 [0 0 0 0 0 1 1 2 0 1 0 1]  
 
-[12, 7, 4]   Linear Code over GF(3)  
+[12, 7, 4] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 2 1 1 2 0]  
 [0 1 0 0 0 0 0 1 1 0 2 1]  
@@ -483,7 +483,7 @@ Generator matrix:
 [0 0 0 0 0 1 0 1 1 2 0 2]  
 [0 0 0 0 0 0 1 1 0 2 1 2]  
 
-[12, 8, 3]   Linear Code over GF(3)  
+[12, 8, 3] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 2 2 2]  
 [0 1 0 0 0 0 0 0 0 2 0 1]  
@@ -494,7 +494,7 @@ Generator matrix:
 [0 0 0 0 0 0 1 0 0 2 0 2]  
 [0 0 0 0 0 0 0 1 0 0 1 2]  
 
-[12, 9, 2]   Linear Code over GF(3)  
+[12, 9, 2] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 1 0 0]  
 [0 1 0 0 0 0 0 0 0 0 0 2]  
@@ -506,7 +506,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 1 0 1 2 2]  
 [0 0 0 0 0 0 0 0 1 2 0 0]  
 
-[12, 11, 2]   Cyclic Linear Code over GF(3)  
+[12, 11, 2] Cyclic Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 2]  
 [0 1 0 0 0 0 0 0 0 0 0 2]  
@@ -524,29 +524,29 @@ Generator matrix:
 
 n=13
 
-[13, 1, 12]   Linear Code over GF(3)  
+[13, 1, 12] Linear Code over GF(3)  
 Generator matrix:  
 [1 1 1 1 1 1 1 1 1 1 1 1 0]  
 
-[13, 2, 9]   Linear Code over GF(3)  
+[13, 2, 9] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 2 1 1 1 0 2 1 1 0 1 2]  
 [0 1 1 1 1 1 1 1 0 0 1 1 1]  
 
-[13, 3, 8]   Linear Code over GF(3)  
+[13, 3, 8] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 2 2 1 0 1 1 2 1 1 2]  
 [0 1 0 0 0 0 1 1 1 1 1 1 1]  
 [0 0 1 1 1 1 2 2 1 1 0 0 0]  
 
-[13, 4, 7]   Linear Code over GF(3)  
+[13, 4, 7] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 1 2 1 2 0 1 2 0 1]  
 [0 1 0 0 0 0 0 1 1 1 1 1 1]  
 [0 0 1 0 0 1 1 2 1 1 1 0 0]  
 [0 0 0 1 1 1 1 1 1 0 0 1 0]  
 
-[13, 5, 6]   Linear Code over GF(3)  
+[13, 5, 6] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 2 2 2 0 2 2 2 1]  
 [0 1 0 0 0 0 0 0 1 1 1 1 1]  
@@ -554,7 +554,7 @@ Generator matrix:
 [0 0 0 1 0 1 1 1 1 1 0 0 0]  
 [0 0 0 0 1 1 0 2 2 1 1 0 0]  
 
-[13, 6, 5]   Linear Code over GF(3)  
+[13, 6, 5] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 2 0 2 0 1 0 1]  
 [0 1 0 0 0 0 0 0 0 1 1 1 1]  
@@ -563,7 +563,7 @@ Generator matrix:
 [0 0 0 0 1 0 1 2 1 0 1 0 0]  
 [0 0 0 0 0 1 0 1 2 1 1 0 0]  
 
-[13, 7, 4]   Linear Code over GF(3)  
+[13, 7, 4] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 2 2 1 1 1 0]  
 [0 1 0 0 0 0 0 0 0 1 1 1 1]  
@@ -573,7 +573,7 @@ Generator matrix:
 [0 0 0 0 0 1 0 1 2 0 1 0 1]  
 [0 0 0 0 0 0 1 1 2 2 1 1 2]  
 
-[13, 8, 4]   Linear Code over GF(3)  
+[13, 8, 4] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 1 0 0 1 1]  
 [0 1 0 0 0 0 0 0 0 0 1 1 1]  
@@ -584,7 +584,7 @@ Generator matrix:
 [0 0 0 0 0 0 1 0 1 1 0 0 1]  
 [0 0 0 0 0 0 0 1 1 0 1 0 1]  
 
-[13, 9, 3]   Linear Code over GF(3)  
+[13, 9, 3] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 1 2 0 0]  
 [0 1 0 0 0 0 0 0 0 2 1 0 2]  
@@ -596,7 +596,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 1 0 0 1 2 2]  
 [0 0 0 0 0 0 0 0 1 2 0 2 1]  
 
-[13, 10, 2]   Linear Code over GF(3)  
+[13, 10, 2] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 1 1 2]  
 [0 1 0 0 0 0 0 0 0 0 0 0 2]  
@@ -609,7 +609,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 1 0 2 2 1]  
 [0 0 0 0 0 0 0 0 0 1 2 0 0]  
 
-[13, 11, 2]   Linear Code over GF(3)  
+[13, 11, 2] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 2]  
 [0 1 0 0 0 0 0 0 0 0 0 0 2]  
@@ -623,7 +623,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 1 0 0 2]  
 [0 0 0 0 0 0 0 0 0 0 1 0 2]  
 
-[13, 12, 1]   Linear Code over GF(3)  
+[13, 12, 1] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 2 0]  
 [0 1 0 0 0 0 0 0 0 0 0 2 0]  
@@ -642,29 +642,29 @@ Generator matrix:
 
 n=14
 
-[14, 1, 12]   Quasicyclic of degree 7 Linear Code over GF(3)  
+[14, 1, 12] Quasicyclic of degree 7 Linear Code over GF(3)  
 Generator matrix:  
 [1 1 1 1 1 1 1 1 1 1 1 1 0 0]  
 
-[14, 2, 10]   Linear Code over GF(3)  
+[14, 2, 10] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 2 2 2 2 1 1 2 2 2 0 0 0]  
 [0 1 2 2 2 2 2 2 0 0 0 1 1 1]  
 
-[14, 3, 9]   Linear Code over GF(3)  
+[14, 3, 9] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 2 2 1 0 1 1 0 2 1 1 2]  
 [0 1 0 0 0 0 1 1 1 1 1 1 1 1]  
 [0 0 1 1 1 1 2 2 1 1 1 0 0 0]  
 
-[14, 4, 8]   Linear Code over GF(3)  
+[14, 4, 8] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 2 0 2 0 2 2 2 0 1 1]  
 [0 1 0 0 0 0 0 1 1 1 1 1 1 1]  
 [0 0 1 0 0 1 1 2 2 1 1 1 0 0]  
 [0 0 0 1 1 1 1 2 1 2 0 0 1 0]  
 
-[14, 5, 7]   Linear Code over GF(3)  
+[14, 5, 7] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 1 2 0 1 2 0 1 2]  
 [0 1 0 0 0 0 0 0 1 1 1 1 1 1]  
@@ -672,7 +672,7 @@ Generator matrix:
 [0 0 0 1 0 1 1 1 1 1 0 0 1 0]  
 [0 0 0 0 1 1 2 1 0 0 2 1 2 0]  
 
-[14, 6, 6]   Linear Code over GF(3)  
+[14, 6, 6] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 2 2 2 1 1 1 0 1]  
 [0 1 0 0 0 0 0 0 0 1 1 1 1 1]  
@@ -681,7 +681,7 @@ Generator matrix:
 [0 0 0 0 1 0 1 0 2 2 1 1 0 0]  
 [0 0 0 0 0 1 1 2 1 0 1 1 1 0]  
 
-[14, 7, 5]   Linear Code over GF(3)  
+[14, 7, 5] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 1 1 2 2 2 1]  
 [0 1 0 0 0 0 0 0 0 1 1 1 1 1]  
@@ -691,7 +691,7 @@ Generator matrix:
 [0 0 0 0 0 1 0 1 1 1 0 0 1 1]  
 [0 0 0 0 0 0 1 1 0 2 1 0 1 2]  
 
-[14, 8, 4]   Linear Code over GF(3)  
+[14, 8, 4] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 1 2 0 2 2]  
 [0 1 0 0 0 0 0 0 0 0 1 1 1 1]  
@@ -702,7 +702,7 @@ Generator matrix:
 [0 0 0 0 0 0 1 0 1 2 0 0 2 1]  
 [0 0 0 0 0 0 0 1 1 2 2 1 1 2]  
 
-[14, 9, 4]   Linear Code over GF(3)  
+[14, 9, 4] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 2 2 2 1 1]  
 [0 1 0 0 0 0 0 0 0 0 0 1 1 1]  
@@ -714,7 +714,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 1 0 1 0 1 0 1]  
 [0 0 0 0 0 0 0 0 1 0 1 2 0 1]  
 
-[14, 10, 3]   Linear Code over GF(3)  
+[14, 10, 3] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 1 2 0 0]  
 [0 1 0 0 0 0 0 0 0 0 2 1 0 2]  
@@ -727,7 +727,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 1 0 0 1 2 2]  
 [0 0 0 0 0 0 0 0 0 1 2 0 1 2]  
 
-[14, 11, 2]   Linear Code over GF(3)  
+[14, 11, 2] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 1 1 0]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 2]  
@@ -741,7 +741,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 1 0 2 1 2]  
 [0 0 0 0 0 0 0 0 0 0 1 2 0 0]  
 
-[14, 12, 2]   Linear Code over GF(3)  
+[14, 12, 2] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 1 0 0 0]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 2]  
@@ -756,7 +756,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 0 0 1 0 2]  
 [0 0 0 0 0 0 0 0 0 0 0 0 1 2]  
 
-[14, 13, 1]   Linear Code over GF(3)  
+[14, 13, 1] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 2 0 0]  
 [0 1 0 0 0 0 0 0 0 0 0 2 0 0]  
@@ -776,29 +776,29 @@ Generator matrix:
 
 n=15
 
-[15, 1, 15]   Cyclic Linear Code over GF(3)  
+[15, 1, 15] Cyclic Linear Code over GF(3)  
 Generator matrix:  
 [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]  
 
-[15, 2, 11]   Linear Code over GF(3)  
+[15, 2, 11] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 2 2 2 2 1 1 1 2 2 2 0 0 0]  
 [0 1 1 1 1 1 0 0 0 2 2 2 1 1 1]  
 
-[15, 3, 9]   Linear Code over GF(3)  
+[15, 3, 9] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 2 2 1 0 2 1 1 0 2 1 1 2]  
 [0 1 0 0 0 0 1 1 1 1 1 1 1 1 1]  
 [0 0 1 1 1 1 2 2 2 1 1 1 0 0 0]  
 
-[15, 4, 8]   Linear Code over GF(3)  
+[15, 4, 8] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 2 1 1 0 0 0 1 0 1 2 1]  
 [0 1 0 0 0 0 0 0 1 1 1 1 1 1 1]  
 [0 0 1 0 0 0 1 1 2 2 1 1 1 0 0]  
 [0 0 0 1 1 1 1 1 1 1 1 0 0 0 0]  
 
-[15, 5, 7]   Linear Code over GF(3)  
+[15, 5, 7] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 2 2 0 2 1 0 0 1 2 0]  
 [0 1 0 0 0 0 0 0 1 1 1 1 1 1 1]  
@@ -806,7 +806,7 @@ Generator matrix:
 [0 0 0 1 0 1 1 1 2 1 2 0 0 1 0]  
 [0 0 0 0 1 1 1 0 1 2 2 1 0 0 1]  
 
-[15, 6, 6]   Linear Code over GF(3)  
+[15, 6, 6] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 2 2 2 0 1 1 1 0]  
 [0 1 0 0 0 0 0 0 0 1 1 1 1 1 1]  
@@ -815,7 +815,7 @@ Generator matrix:
 [0 0 0 0 1 0 1 2 1 0 0 2 1 2 0]  
 [0 0 0 0 0 1 1 1 2 2 0 1 0 0 1]  
 
-[15, 7, 6]   Linear Code over GF(3)  
+[15, 7, 6] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 1 0 1 1 0 2 0 2]  
 [0 1 0 0 0 0 0 0 0 0 1 1 1 1 1]  
@@ -825,7 +825,7 @@ Generator matrix:
 [0 0 0 0 0 1 0 0 1 2 2 1 1 0 0]  
 [0 0 0 0 0 0 1 1 2 0 2 1 0 0 1]  
 
-[15, 8, 5]   Linear Code over GF(3)  
+[15, 8, 5] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 2 2 2 1 2 1 2]  
 [0 1 0 0 0 0 0 0 0 0 1 1 1 1 1]  
@@ -836,7 +836,7 @@ Generator matrix:
 [0 0 0 0 0 0 1 0 1 0 2 1 0 1 2]  
 [0 0 0 0 0 0 0 1 1 2 1 2 1 1 2]  
 
-[15, 9, 4]   Linear Code over GF(3)  
+[15, 9, 4] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 1 1 0 1 1 1]  
 [0 1 0 0 0 0 0 0 0 0 0 1 1 1 1]  
@@ -848,7 +848,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 1 0 1 2 2 1 1 2]  
 [0 0 0 0 0 0 0 0 1 0 1 1 1 2 2]  
 
-[15, 10, 4]   Linear Code over GF(3)  
+[15, 10, 4] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 1 1 1 1 1]  
 [0 1 0 0 0 0 0 0 0 0 0 0 1 1 1]  
@@ -861,7 +861,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 1 0 0 1 1 0 1]  
 [0 0 0 0 0 0 0 0 0 1 1 0 0 1 1]  
 
-[15, 11, 3]   Linear Code over GF(3)  
+[15, 11, 3] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 1 0 1]  
 [0 1 0 0 0 0 0 0 0 0 0 1 2 0 2]  
@@ -875,7 +875,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 1 0 2 2 2 2]  
 [0 0 0 0 0 0 0 0 0 0 1 2 0 1 2]  
 
-[15, 12, 2]   Linear Code over GF(3)  
+[15, 12, 2] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 0 1 2]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 1 1]  
@@ -890,7 +890,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 0 1 2 0 1 2]  
 [0 0 0 0 0 0 0 0 0 0 0 0 1 2 0]  
 
-[15, 13, 2]   Linear Code over GF(3)  
+[15, 13, 2] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 1 0 0 1]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 2]  
@@ -906,7 +906,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 0 0 0 1 0 2]  
 [0 0 0 0 0 0 0 0 0 0 0 0 0 1 2]  
 
-[15, 14, 2]   Cyclic Linear Code over GF(3)  
+[15, 14, 2] Cyclic Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 0 0 2]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 2]  
@@ -927,29 +927,29 @@ Generator matrix:
 
 n=16
 
-[16, 1, 15]   Linear Code over GF(3)  
+[16, 1, 15] Linear Code over GF(3)  
 Generator matrix:  
 [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0]  
 
-[16, 2, 11]   Linear Code over GF(3)  
+[16, 2, 11] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 2 0 2 2 2 1 1 1 2 2 2 0 0 0]  
 [0 1 1 0 1 1 1 0 0 0 2 2 2 1 1 1]  
 
-[16, 3, 10]   Linear Code over GF(3)  
+[16, 3, 10] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 1 1 2 1 1 1 0 1 0 0 1 1 0]  
 [0 1 0 1 1 2 1 1 2 1 2 1 1 2 2 1]  
 [0 0 1 1 1 0 2 2 0 2 2 1 1 1 1 0]  
 
-[16, 4, 9]   Linear Code over GF(3)  
+[16, 4, 9] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 2 1 1 2 2 2 2 1 2 1 0 1]  
 [0 1 0 0 1 1 0 0 1 1 2 1 0 2 1 2]  
 [0 0 1 0 0 1 0 2 2 2 2 2 1 2 1 0]  
 [0 0 0 1 1 1 1 1 1 2 0 0 1 0 1 0]  
 
-[16, 5, 8]   Linear Code over GF(3)  
+[16, 5, 8] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 2 2 2 0 0 2 0 1 2 1 1]  
 [0 1 0 0 0 2 2 2 0 1 0 1 2 0 2 2]  
@@ -957,7 +957,7 @@ Generator matrix:
 [0 0 0 1 0 1 2 0 1 1 2 1 2 1 0 2]  
 [0 0 0 0 1 1 2 0 2 2 1 1 1 1 2 0]  
 
-[16, 6, 7]   Linear Code over GF(3)  
+[16, 6, 7] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 1 0 1 1 2 2 0 1 0 0 1]  
 [0 1 0 0 0 2 0 2 2 1 2 1 0 1 1 0]  
@@ -966,7 +966,7 @@ Generator matrix:
 [0 0 0 0 1 1 0 2 0 0 2 0 0 1 2 1]  
 [0 0 0 0 0 0 1 1 0 2 1 2 2 0 1 1]  
 
-[16, 7, 6]   Linear Code over GF(3)  
+[16, 7, 6] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 2 0 2 2 2 1 1 2 1]  
 [0 1 0 0 0 0 0 0 0 0 1 1 1 1 1 1]  
@@ -976,7 +976,7 @@ Generator matrix:
 [0 0 0 0 0 1 0 1 1 2 2 0 1 0 0 1]  
 [0 0 0 0 0 0 1 1 0 2 1 2 2 0 1 1]  
 
-[16, 8, 6]   Linear Code over GF(3)  
+[16, 8, 6] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 1 1 0 2 1 2]  
 [0 1 0 0 0 0 0 0 0 0 0 1 1 1 1 1]  
@@ -987,7 +987,7 @@ Generator matrix:
 [0 0 0 0 0 0 1 0 1 2 2 0 1 0 0 1]  
 [0 0 0 0 0 0 0 1 1 0 2 1 0 0 1 1]  
 
-[16, 9, 5]   Linear Code over GF(3)  
+[16, 9, 5] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 2 0 1 0 2 2]  
 [0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1]  
@@ -999,7 +999,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 1 0 1 2 2 0 0 1 0]  
 [0 0 0 0 0 0 0 0 1 1 0 2 1 0 0 1]  
 
-[16, 10, 4]   Linear Code over GF(3)  
+[16, 10, 4] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 2 0 2 0 2 0 1]  
 [0 1 0 0 0 0 0 0 0 2 0 1 1 2 0 1]  
@@ -1012,7 +1012,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 1 2 0 2 2 2 1 2]  
 [0 0 0 0 0 0 0 0 0 0 1 1 1 2 1 0]  
 
-[16, 11, 4]   Linear Code over GF(3)  
+[16, 11, 4] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 1 1 2 0]  
 [0 1 0 0 0 0 0 0 0 0 0 0 2 1 0 2]  
@@ -1026,7 +1026,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 1 0 2 2 0 0 1]  
 [0 0 0 0 0 0 0 0 0 0 1 0 2 2 2 2]  
 
-[16, 12, 3]   Linear Code over GF(3)  
+[16, 12, 3] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 0 1 2 0]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1]  
@@ -1041,7 +1041,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 0 1 0 2 2 2 2]  
 [0 0 0 0 0 0 0 0 0 0 0 1 2 0 1 2]  
 
-[16, 13, 2]   Linear Code over GF(3)  
+[16, 13, 2] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 1 0 2 1]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 2]  
@@ -1057,7 +1057,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 0 0 1 2 0 0 0]  
 [0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 0]  
 
-[16, 14, 2]   Linear Code over GF(3)  
+[16, 14, 2] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 2]  
@@ -1074,7 +1074,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 2]  
 [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 2]  
 
-[16, 15, 1]   Linear Code over GF(3)  
+[16, 15, 1] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 2 0]  
@@ -1096,29 +1096,29 @@ Generator matrix:
 
 n=17
 
-[17, 1, 15]   Linear Code over GF(3)  
+[17, 1, 15] Linear Code over GF(3)  
 Generator matrix:  
 [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0]  
 
-[17, 2, 13]   Linear Code over GF(3)  
+[17, 2, 13] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 2 1 1 1 0 2 1 1 0 1 2 1 0 1 2]  
 [0 1 1 1 1 1 1 1 0 0 1 1 1 0 1 1 1]  
 
-[17, 3, 10]   Linear Code over GF(3)  
+[17, 3, 10] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 2 2 1 2 2 2 0 2 2 0 0 2 2 0]  
 [0 1 0 2 2 1 2 2 0 1 0 0 1 1 0 0 1]  
 [0 0 1 0 0 1 1 1 2 2 1 1 1 1 0 0 0]  
 
-[17, 4, 10]   Linear Code over GF(3)  
+[17, 4, 10] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 1 2 1 0 2 2 1 1 0 2 0 0 1]  
 [0 1 0 0 1 0 1 1 0 1 1 0 0 1 1 1 1]  
 [0 0 1 0 0 1 1 1 0 0 0 1 1 1 2 1 2]  
 [0 0 0 1 0 0 0 0 1 1 1 1 1 1 1 2 2]  
 
-[17, 5, 9]   Linear Code over GF(3)  
+[17, 5, 9] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 2 2 1 1 1 0 1 2 2 1 1 2]  
 [0 1 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1]  
@@ -1126,7 +1126,7 @@ Generator matrix:
 [0 0 0 1 0 1 1 2 1 2 1 1 1 0 0 0 0]  
 [0 0 0 0 1 1 2 1 1 1 1 0 0 1 0 1 0]  
 
-[17, 6, 8]   Linear Code over GF(3)  
+[17, 6, 8] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 2 2 1 1 1 0 1 2 2 1]  
 [0 1 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1]  
@@ -1135,7 +1135,7 @@ Generator matrix:
 [0 0 0 0 1 0 1 2 2 1 1 0 0 2 1 0 0]  
 [0 0 0 0 0 1 1 1 0 2 1 2 0 1 0 1 0]  
 
-[17, 7, 7]   Linear Code over GF(3)  
+[17, 7, 7] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 1 0 2 0 2 0 1 1 2 2]  
 [0 1 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1]  
@@ -1145,7 +1145,7 @@ Generator matrix:
 [0 0 0 0 0 1 0 1 1 2 0 1 0 1 0 1 0]  
 [0 0 0 0 0 0 1 0 1 0 1 2 2 2 0 1 0]  
 
-[17, 8, 6]   Linear Code over GF(3)  
+[17, 8, 6] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 2 0 0 1 2 2 1]  
 [0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1]  
@@ -1156,7 +1156,7 @@ Generator matrix:
 [0 0 0 0 0 0 1 0 1 2 0 2 1 0 1 0 0]  
 [0 0 0 0 0 0 0 1 1 2 1 0 2 0 0 1 0]  
 
-[17, 9, 6]   Linear Code over GF(3)  
+[17, 9, 6] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 2 1 2 1 0 2 2 1]  
 [0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1]  
@@ -1168,7 +1168,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 1 0 1 1 2 2 0 0 0 1]  
 [0 0 0 0 0 0 0 0 1 0 1 0 2 2 0 1 1]  
 
-[17, 10, 5]   Linear Code over GF(3)  
+[17, 10, 5] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 1 1 0 2 0 2 1]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1]  
@@ -1181,7 +1181,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 1 0 1 2 2 0 0 0 1]  
 [0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 1 1]  
 
-[17, 11, 4]   Linear Code over GF(3)  
+[17, 11, 4] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 2 0 1 2 0]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1]  
@@ -1195,7 +1195,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 1 0]  
 [0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0]  
 
-[17, 12, 4]   Linear Code over GF(3)  
+[17, 12, 4] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 2 0 0 0 1 2 0 0]  
 [0 1 0 0 0 0 0 0 0 2 0 0 0 1 0 2 0]  
@@ -1210,7 +1210,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 0 0 1 0 2 1 2 2]  
 [0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 2 2]  
 
-[17, 13, 3]   Linear Code over GF(3)  
+[17, 13, 3] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 2 0]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 2 0]  
@@ -1226,7 +1226,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 0 0 1 0 2 2 2 2]  
 [0 0 0 0 0 0 0 0 0 0 0 0 1 2 0 1 2]  
 
-[17, 14, 2]   Linear Code over GF(3)  
+[17, 14, 2] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2]  
@@ -1243,7 +1243,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 0 0 0 1 2 0 0 0]  
 [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 0]  
 
-[17, 15, 2]   Linear Code over GF(3)  
+[17, 15, 2] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2]  
@@ -1261,7 +1261,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 2]  
 [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2]  
 
-[17, 16, 1]   Linear Code over GF(3)  
+[17, 16, 1] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0]  
@@ -1284,29 +1284,29 @@ Generator matrix:
 
 n=18
 
-[18, 1, 18]   Cyclic Linear Code over GF(3)  
+[18, 1, 18] Cyclic Linear Code over GF(3)  
 Generator matrix:  
 [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]  
 
-[18, 2, 13]   Linear Code over GF(3)  
+[18, 2, 13] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 1 1 1 1 1 2 2 2 1 1 1 1 0 0 0 0]  
 [0 1 2 2 2 2 2 2 2 2 0 0 0 0 1 1 1 1]  
 
-[18, 3, 11]   Linear Code over GF(3)  
+[18, 3, 11] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 1 1 2 1 1 2 1 0 2 1 0 0 2 1 0]  
 [0 1 0 2 2 1 2 2 2 0 1 2 0 1 1 2 0 1]  
 [0 0 1 1 1 0 2 2 1 0 2 0 2 1 1 2 1 0]  
 
-[18, 4, 10]   Linear Code over GF(3)  
+[18, 4, 10] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 2 2 2 2 0 2 1 1 0 2 0 2 0 2]  
 [0 1 0 0 1 1 1 1 0 2 0 0 1 2 1 2 1 2]  
 [0 0 1 0 1 1 2 2 1 0 1 0 1 2 1 1 0 1]  
 [0 0 0 1 0 1 2 1 1 1 0 1 1 0 0 1 1 0]  
 
-[18, 5, 9]   Linear Code over GF(3)  
+[18, 5, 9] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 1 1 2 2 2 0 2 0 1 1 2 0 1]  
 [0 1 0 0 0 2 2 1 1 1 1 2 1 0 0 2 1 0]  
@@ -1314,7 +1314,7 @@ Generator matrix:
 [0 0 0 1 0 1 2 0 1 0 2 0 1 2 1 2 0 1]  
 [0 0 0 0 1 2 0 0 2 2 1 2 0 2 0 1 1 2]  
 
-[18, 6, 8]   Linear Code over GF(3)  
+[18, 6, 8] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 2 2 1 1 1 0 1 2 2 1 0]  
 [0 1 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 0]  
@@ -1323,7 +1323,7 @@ Generator matrix:
 [0 0 0 0 1 0 1 2 2 1 1 0 0 2 1 0 0 0]  
 [0 0 0 0 0 1 1 1 0 2 1 2 0 1 0 1 0 0]  
 
-[18, 7, 8]   Linear Code over GF(3)  
+[18, 7, 8] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 2 1 2 1 2 1 1 2 1 2]  
 [0 1 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1]  
@@ -1333,7 +1333,7 @@ Generator matrix:
 [0 0 0 0 0 1 0 1 1 0 2 1 2 0 1 0 1 0]  
 [0 0 0 0 0 0 1 1 0 2 2 1 0 1 1 0 0 1]  
 
-[18, 7, 8]   Linear Code over GF(3)  
+[18, 7, 8] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 1 2 2 0 1 1 0 1 2 1 2]  
 [0 1 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1]  
@@ -1343,7 +1343,7 @@ Generator matrix:
 [0 0 0 0 0 1 0 1 1 0 2 1 2 0 1 0 1 0]  
 [0 0 0 0 0 0 1 1 0 2 2 1 0 1 1 0 0 1]  
 
-[18, 8, 7]   Linear Code over GF(3)  
+[18, 8, 7] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 2 1 1 1 0 1 0 1 1]  
 [0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1]  
@@ -1354,7 +1354,7 @@ Generator matrix:
 [0 0 0 0 0 0 1 0 1 2 1 2 0 1 2 0 1 0]  
 [0 0 0 0 0 0 0 1 1 0 2 2 1 1 0 1 1 0]  
 
-[18, 9, 6]   Linear Code over GF(3)  
+[18, 9, 6] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 2 1 0 0 1 0 1 0 1]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1]  
@@ -1366,7 +1366,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 1 0 1 2 1 2 0 0 1 0 0]  
 [0 0 0 0 0 0 0 0 1 1 2 0 2 1 0 0 1 0]  
 
-[18, 10, 5]   Linear Code over GF(3)  
+[18, 10, 5] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 1 0 1 0 2 2 2 0]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1]  
@@ -1379,7 +1379,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 1 0 0 1 0 2 2 0 1 1]  
 [0 0 0 0 0 0 0 0 0 1 1 2 1 1 2 0 2 1]  
 
-[18, 11, 5]   Linear Code over GF(3)  
+[18, 11, 5] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 1 2 0 2 2 2 1]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1]  
@@ -1393,7 +1393,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 1 1]  
 [0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 2 1]  
 
-[18, 12, 4]   Linear Code over GF(3)  
+[18, 12, 4] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1]  
@@ -1408,7 +1408,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 1 0]  
 [0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 1 0]  
 
-[18, 13, 4]   Linear Code over GF(3)  
+[18, 13, 4] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 2 0 0 0 1 2 2 2]  
 [0 1 0 0 0 0 0 0 0 0 2 0 0 0 1 2 0 0]  
@@ -1424,7 +1424,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 0 0 0 1 0 2 1 2 2]  
 [0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 2 2]  
 
-[18, 14, 3]   Linear Code over GF(3)  
+[18, 14, 3] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 2]  
@@ -1441,7 +1441,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 0 0 0 1 0 2 2 0 1]  
 [0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 2 1 0]  
 
-[18, 15, 2]   Linear Code over GF(3)  
+[18, 15, 2] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 2 2]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2]  
@@ -1459,7 +1459,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 0 0 0]  
 [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1]  
 
-[18, 16, 2]   Linear Code over GF(3)  
+[18, 16, 2] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2]  
@@ -1478,7 +1478,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 2]  
 [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2]  
 
-[18, 17, 2]   Cyclic Linear Code over GF(3)  
+[18, 17, 2] Cyclic Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2]  
@@ -1502,29 +1502,29 @@ Generator matrix:
 
 n=19
 
-[19, 1, 18]   Linear Code over GF(3)  
+[19, 1, 18] Linear Code over GF(3)  
 Generator matrix:  
 [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0]  
 
-[19, 2, 14]   Linear Code over GF(3)  
+[19, 2, 14] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 2 2 2 2 2 0 0 0 0 2 2 2 2 1 1 1 1]  
 [0 1 1 1 1 1 1 1 1 1 1 2 2 2 2 0 0 0 0]  
 
-[19, 3, 12]   Linear Code over GF(3)  
+[19, 3, 12] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 1 0 0 2 2 2 0 0 1 1 2 2 1 1 1 1]  
 [0 1 0 1 1 1 0 0 1 2 2 2 2 0 0 1 1 1 1]  
 [0 0 1 0 1 1 2 2 0 1 1 1 1 1 1 1 1 2 2]  
 
-[19, 4, 11]   Linear Code over GF(3)  
+[19, 4, 11] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 1 0 2 2 2 2 1 2 2 0 2 1 2 0 1]  
 [0 1 0 0 0 1 1 2 0 1 0 2 2 2 1 2 1 0 1]  
 [0 0 1 0 1 0 1 0 2 0 0 0 1 2 2 2 1 2 2]  
 [0 0 0 1 1 1 1 0 1 2 0 1 2 1 0 0 1 0 2]  
 
-[19, 5, 10]   Linear Code over GF(3)  
+[19, 5, 10] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 2 2 2 0 1 2 2 0 2 1 2 0 1 0]  
 [0 1 0 0 0 1 0 1 1 1 1 0 0 1 0 0 1 1 2]  
@@ -1532,7 +1532,7 @@ Generator matrix:
 [0 0 0 1 0 1 1 2 2 1 0 0 2 0 1 0 1 2 2]  
 [0 0 0 0 1 0 2 2 2 2 1 2 2 0 2 1 2 0 1]  
 
-[19, 6, 9]   Linear Code over GF(3)  
+[19, 6, 9] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 2 0 1 0 0 0 2 1 1 1 0 2 2]  
 [0 1 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1]  
@@ -1541,7 +1541,7 @@ Generator matrix:
 [0 0 0 0 1 0 1 1 2 1 2 1 2 2 0 0 0 0 0]  
 [0 0 0 0 0 1 1 2 1 0 2 2 0 2 2 0 0 2 0]  
 
-[19, 7, 8]   Linear Code over GF(3)  
+[19, 7, 8] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 2 2 0 0 1 0 1 1 0 1 2]  
 [0 1 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1]  
@@ -1551,7 +1551,7 @@ Generator matrix:
 [0 0 0 0 0 1 0 1 2 0 1 2 1 2 0 2 0 1 0]  
 [0 0 0 0 0 0 1 1 1 2 0 1 1 2 2 1 2 1 2]  
 
-[19, 8, 7]   Linear Code over GF(3)  
+[19, 8, 7] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 1 2 1 0 0 2 1 2 2 2 1]  
 [0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1]  
@@ -1562,7 +1562,7 @@ Generator matrix:
 [0 0 0 0 0 0 1 0 0 1 0 1 2 1 2 1 0 0 1]  
 [0 0 0 0 0 0 0 1 1 0 1 0 2 2 0 0 1 2 1]  
 
-[19, 9, 7]   Linear Code over GF(3)  
+[19, 9, 7] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 1 2 2 2 0 2 1 2 1 2]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1]  
@@ -1574,7 +1574,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 1 0 1 0 2 2 1 1 0 1 1 0]  
 [0 0 0 0 0 0 0 0 1 1 0 0 2 2 1 2 0 0 1]  
 
-[19, 10, 6]   Linear Code over GF(3)  
+[19, 10, 6] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 2 1 0 1 0 2 2 2 1]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1]  
@@ -1587,7 +1587,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 1 0 1 2 0 2 1 0 0 1 0]  
 [0 0 0 0 0 0 0 0 0 1 1 0 2 1 0 0 1 1 0]  
 
-[19, 11, 6]   Linear Code over GF(3)  
+[19, 11, 6] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 2 1 2 2]  
 [0 1 0 0 0 0 0 0 0 0 0 1 2 2 2 0 0 1 0]  
@@ -1601,7 +1601,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 1 0 2 2 2 1 1 1 2 1]  
 [0 0 0 0 0 0 0 0 0 0 1 2 0 2 0 1 0 1 1]  
 
-[19, 12, 5]   Linear Code over GF(3)  
+[19, 12, 5] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 2 1 2 2]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 2 2 0 1 0 1]  
@@ -1616,7 +1616,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 0 1 0 2 2 0 1 2 2 0]  
 [0 0 0 0 0 0 0 0 0 0 0 1 2 0 0 0 2 1 2]  
 
-[19, 13, 4]   Linear Code over GF(3)  
+[19, 13, 4] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 0 1 2 2 1 2 1]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1]  
@@ -1632,7 +1632,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0]  
 [0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0]  
 
-[19, 14, 3]   Linear Code over GF(3)  
+[19, 14, 3] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 2]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1]  
@@ -1649,7 +1649,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 2 1 2 1]  
 [0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 2 2 1]  
 
-[19, 15, 3]   Linear Code over GF(3)  
+[19, 15, 3] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 0 0]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1]  
@@ -1667,7 +1667,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 2 2 0 1]  
 [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 2 1 0]  
 
-[19, 16, 2]   Linear Code over GF(3)  
+[19, 16, 2] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0]  
@@ -1686,7 +1686,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 2 0]  
 [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 0]  
 
-[19, 17, 2]   Linear Code over GF(3)  
+[19, 17, 2] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1]  
@@ -1706,7 +1706,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 2]  
 [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2]  
 
-[19, 18, 1]   Linear Code over GF(3)  
+[19, 18, 1] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0]  
@@ -1731,29 +1731,29 @@ Generator matrix:
 
 n=20
 
-[20, 1, 18]   Quasicyclic of degree 10 Linear Code over GF(3)  
+[20, 1, 18] Quasicyclic of degree 10 Linear Code over GF(3)  
 Generator matrix:  
 [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0]  
 
-[20, 2, 14]   Linear Code over GF(3)  
+[20, 2, 14] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 2 0 2 2 2 2 0 0 0 0 2 2 2 2 1 1 1 1]  
 [0 1 1 0 1 1 1 1 1 1 1 1 2 2 2 2 0 0 0 0]  
 
-[20, 3, 13]   Linear Code over GF(3)  
+[20, 3, 13] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 1 1 0 1 1 2 0 1 1 2 0 0 1 2 0 1 2]  
 [0 1 0 1 1 0 1 1 2 1 2 2 0 1 1 2 0 1 2 0]  
 [0 0 1 1 1 1 2 2 0 0 1 1 2 1 1 2 0 2 0 1]  
 
-[20, 4, 12]   Linear Code over GF(3)  
+[20, 4, 12] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 2 1 2 1 0 1 0 1 2 0 0 2 1 1 2 1]  
 [0 1 0 0 1 0 1 1 1 0 1 1 0 0 1 1 1 0 1 1]  
 [0 0 1 0 0 1 1 1 2 0 0 0 1 1 1 2 0 1 1 2]  
 [0 0 0 1 0 0 0 0 0 1 1 1 1 1 1 1 2 2 2 2]  
 
-[20, 5, 11]   Linear Code over GF(3)  
+[20, 5, 11] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 2 0 1 0 1 1 0 1 2 2 0 1 0 2 1]  
 [0 1 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1]  
@@ -1761,7 +1761,7 @@ Generator matrix:
 [0 0 0 1 0 1 2 2 1 1 2 1 1 1 0 0 0 1 0 0]  
 [0 0 0 0 1 1 2 0 2 1 1 2 0 0 2 1 1 2 0 0]  
 
-[20, 6, 10]   Linear Code over GF(3)  
+[20, 6, 10] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 2 0 2 1 1 2 0 2 0 1 2 0 2]  
 [0 1 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1]  
@@ -1770,7 +1770,7 @@ Generator matrix:
 [0 0 0 0 1 0 1 2 0 1 2 2 2 0 2 2 0 0 2 0]  
 [0 0 0 0 0 1 1 2 1 0 1 2 1 0 1 0 1 1 1 0]  
 
-[20, 7, 9]   Linear Code over GF(3)  
+[20, 7, 9] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 1 1 1 0 0 0 2 1 0 1 0 1 2]  
 [0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1]  
@@ -1780,7 +1780,7 @@ Generator matrix:
 [0 0 0 0 0 1 0 1 2 0 1 2 1 1 0 1 0 0 1 0]  
 [0 0 0 0 0 0 1 1 1 2 1 0 1 0 1 2 0 1 1 0]  
 
-[20, 8, 8]   Linear Code over GF(3)  
+[20, 8, 8] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 2 1 2 2 0 1 1 1 0 1 2 1]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1]  
@@ -1791,7 +1791,7 @@ Generator matrix:
 [0 0 0 0 0 0 1 0 1 2 2 1 2 0 0 1 0 0 1 0]  
 [0 0 0 0 0 0 0 1 1 0 1 2 2 1 0 0 0 1 1 0]  
 
-[20, 9, 7]   Linear Code over GF(3)  
+[20, 9, 7] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 1 2 2 0 1 0 2 2 0 2 2]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1]  
@@ -1803,7 +1803,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 1 0 1 0 2 2 0 1 2 0 1 1 1]  
 [0 0 0 0 0 0 0 0 1 0 1 2 0 0 1 2 2 0 1 2]  
 
-[20, 10, 6]   Linear Code over GF(3)  
+[20, 10, 6] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 2 0 2 2 0 0 1 2 2 2]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1]  
@@ -1816,7 +1816,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 1 0 1 2 0 1 0 1 1 0 0 1]  
 [0 0 0 0 0 0 0 0 0 1 0 1 1 2 2 0 2 1 1 1]  
 
-[20, 11, 6]   Linear Code over GF(3)  
+[20, 11, 6] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 2 2 1 0 0 0 0 1 2]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1]  
@@ -1830,7 +1830,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 1 0 1 0 2 2 1 0 0 1 0]  
 [0 0 0 0 0 0 0 0 0 0 1 1 2 2 0 0 0 2 1 0]  
 
-[20, 12, 5]   Linear Code over GF(3)  
+[20, 12, 5] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 2 1 1 2 2 0 2 0]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1]  
@@ -1845,7 +1845,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 0 1 0 0 1 2 0 0 1 2 1]  
 [0 0 0 0 0 0 0 0 0 0 0 1 1 0 2 2 2 0 1 2]  
 
-[20, 13, 5]   Linear Code over GF(3)  
+[20, 13, 5] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 1 1 1 0]  
 [0 1 0 0 0 0 0 0 0 0 0 0 2 0 0 2 1 2 2 0]  
@@ -1861,7 +1861,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 0 0 1 2 0 0 1 0 1 1 2]  
 [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 2 1 0 1]  
 
-[20, 14, 4]   Linear Code over GF(3)  
+[20, 14, 4] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 0 0 2 1 1 0 1 2]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1]  
@@ -1878,7 +1878,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 0]  
 [0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 2 0 0 0 1]  
 
-[20, 15, 3]   Linear Code over GF(3)  
+[20, 15, 3] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 2 0]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1]  
@@ -1896,7 +1896,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 2 0 2 2]  
 [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 2 2]  
 
-[20, 16, 3]   Linear Code over GF(3)  
+[20, 16, 3] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 1 0 1]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 1 1 0]  
@@ -1915,7 +1915,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 2]  
 [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 2]  
 
-[20, 17, 2]   Linear Code over GF(3)  
+[20, 17, 2] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0]  
@@ -1935,7 +1935,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 0 2 1]  
 [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1]  
 
-[20, 18, 1]   Linear Code over GF(3)  
+[20, 18, 1] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1]  
@@ -1956,7 +1956,7 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 2]  
 [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2]  
 
-[20, 19, 1]   Linear Code over GF(3)  
+[20, 19, 1] Linear Code over GF(3)  
 Generator matrix:  
 [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0]  
 [0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0]  
@@ -1976,4 +1976,4 @@ Generator matrix:
 [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 2 0 0]  
 [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 0 0]  
 [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0]  
-[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1]  
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1]
