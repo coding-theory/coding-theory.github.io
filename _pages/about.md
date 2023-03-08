@@ -22,8 +22,9 @@ redirect_from:
 
 ## Publication
 
-#### 1. Minjia Shi, Shitao Li, and Patrick Sole, $\mathbb{Z}_2\mathbb{Z}_4$-additive quasi-cyclic codes, IEEE Transactions on Information Theory, 2021, 67(11): 7232-7239.
-#### 2. Minjia Shi, Shitao Li, Jon-Lark Kim, and Patrick Sole, LCD and ACD codes over a noncommutative non-unital ring with four elements, Cryptography and Communications, 2022, 14(3): 627–640.
-#### 3. Shitao Li and Minjia Shi, Two infinite families of two-weight codes over $\mathbb{Z}_{2^m}$ , Journal of Applied Mathematics and Computing, 2023, 69(1): 201–218.
-#### 4  Minjia Shi, Shitao Li, and Jon-Lark Kim, Two conjectures on the largest minimum distances of binary self-orthogonal codes with dimension 5, to appear in IEEE Transactions on Information Theory.
+#### 6. Shitao Li, Minjia Shi, Juan Wang, An improved method for constructing formally self-dual codes with small hulls, to appear in Designs, Codes and Cryptography.
 #### 5. Minjia Shi, Shitao Li, Jon-Lark Kim, and Patrick Sole, The adjacency codes of the first yellow graphs, to appear in Journal of Systems Science and Complexity.
+#### 4  Minjia Shi, Shitao Li, and Jon-Lark Kim, Two conjectures on the largest minimum distances of binary self-orthogonal codes with dimension 5, to appear in IEEE Transactions on Information Theory.
+#### 3. Shitao Li and Minjia Shi, Two infinite families of two-weight codes over $\mathbb{Z}_{2^m}$ , Journal of Applied Mathematics and Computing, 2023, 69(1): 201–218.
+#### 2. Minjia Shi, Shitao Li, Jon-Lark Kim, and Patrick Sole, LCD and ACD codes over a noncommutative non-unital ring with four elements, Cryptography and Communications, 2022, 14(3): 627–640.
+#### 1. Minjia Shi, Shitao Li, and Patrick Sole, $\mathbb{Z}_2\mathbb{Z}_4$-additive quasi-cyclic codes, IEEE Transactions on Information Theory, 2021, 67(11): 7232-7239.
