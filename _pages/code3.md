@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 
-Database for the paper “Characterization and classifiation of binary linear codes with various hull dimensions”
+Database for the paper “Characterization and classifiation of binary linear codes with various hull dimensions from an improved
+mass formula”
 
 ### Table 1: Binary linear codes with one-dimensional hull (h=1)
 
