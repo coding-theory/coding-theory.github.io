@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Ternary linear codes with one-dimensional hull   
-Database for the paper ``On the minimum distances of optimal ternary linear codes with one-dimensional hull"  
+Database for the paper "On the minimum distances of optimal ternary linear codes with one-dimensional hull"  
 
 ## Ternary linear codes with one-dimensional hull for $n\leq 20$
 
