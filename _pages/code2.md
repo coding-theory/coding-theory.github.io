@@ -480,3 +480,335 @@ Generator matrix:
 [  0   0   0   0   0   0   0   0   1   0   w   0   1]  
 [  0   0   0   0   0   0   0   0   0   1   1   0   w]  
 [  0   0   0   0   0   0   0   0   0   0   0   1 w^2]  
+
+
+**************************************************************
+
+## Quaternary linear codes with three-dimensional hull (h=3)
+
+n=6
+
+[6, 3, 4] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   1 w^2 w^2]  
+[  0   1   0 w^2 w^2   1]  
+[  0   0   1 w^2   1 w^2]  
+_______________________________________
+
+n=7
+
+[7, 3, 4] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0 w^2 w^2   0 w^2]  
+[  0   1   0   0   1   1   1]  
+[  0   0   1   1   0   1   1]  
+
+[7, 4, 3] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   0   1 w^2   0]  
+[  0   1   0   0   1 w^2 w^2]  
+[  0   0   1   0   0   1   1]  
+[  0   0   0   1   1   0 w^2]  
+_______________________________________
+
+n=8
+
+[8, 3, 4] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0 w^2 w^2   0 w^2   0]  
+[  0   1   0   0   1   1   1   0]  
+[  0   0   1   1   0   1   1   0]  
+
+[8, 4, 4] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   0   1   w   0   w]  
+[  0   1   0   0   1 w^2   w   1]  
+[  0   0   1   0   0   1   1   1]  
+[  0   0   0   1   1   1   w w^2]  
+
+[8, 5, 3] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   0   0   0   1 w^2]  
+[  0   1   0   0   0 w^2   w w^2]  
+[  0   0   1   0   0 w^2   1   w]  
+[  0   0   0   1   0   0   1   1]  
+[  0   0   0   0   1   1   1   w]  
+_______________________________________
+
+n=9
+
+[9, 3, 6] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0 w^2 w^2   1 w^2   1   0]  
+[  0   1   0   0   1   1   1   1   1]  
+[  0   0   1   1   0   w   w w^2 w^2]  
+
+[9, 4, 4] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   0   1   w   0   w   0]  
+[  0   1   0   0   1 w^2   w   1   0]  
+[  0   0   1   0   0   1   1   1   0]  
+[  0   0   0   1   1   1   w w^2   0]  
+
+[9, 5, 4] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   0   0 w^2   w   0 w^2]  
+[  0   1   0   0   0   0   w w^2   1]  
+[  0   0   1   0   0   1   1   w   w]  
+[  0   0   0   1   0   0   1   1   1]  
+[  0   0   0   0   1   1   w   w w^2]  
+
+[9, 6, 3] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   0   0   0   w   w   0]  
+[  0   1   0   0   0   0 w^2   1   1]  
+[  0   0   1   0   0   0   w   0   1]  
+[  0   0   0   1   0   0 w^2   1   w]  
+[  0   0   0   0   1   0   0   1   1]  
+[  0   0   0   0   0   1   1   1   w]  
+_______________________________________
+
+n=10
+
+[10, 3, 6] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0 w^2 w^2   1 w^2   1   0   0]  
+[  0   1   0   0   1   1   1   1   1   0]  
+[  0   0   1   1   0   w   w w^2 w^2   0]  
+
+[10, 4, 5] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   0   0   1   0   w w^2 w^2]  
+[  0   1   0   0 w^2   0   0   w   1 w^2]  
+[  0   0   1   0   1   w   w   1   0 w^2]  
+[  0   0   0   1   w   w   1 w^2 w^2   w]  
+
+[10, 5, 4] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   0   0 w^2   w   0 w^2   0]  
+[  0   1   0   0   0   0   w w^2   1   0]  
+[  0   0   1   0   0   1   1   w   w   0]  
+[  0   0   0   1   0   0   1   1   1   0]  
+[  0   0   0   0   1   1   w   w w^2   0]  
+
+[10, 6, 3] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   0   0   0   w   w   0   0]  
+[  0   1   0   0   0   0 w^2   1   1   0]  
+[  0   0   1   0   0   0   w   0   1   0]  
+[  0   0   0   1   0   0 w^2   1   w   0]  
+[  0   0   0   0   1   0   0   1   1   0]  
+[  0   0   0   0   0   1   1   1   w   0]  
+
+[10, 7, 3] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   0   0   0   0 w^2   w   w]  
+[  0   1   0   0   0   0   0   0 w^2   w]  
+[  0   0   1   0   0   0   0   w   0   w]  
+[  0   0   0   1   0   0   0   w   0 w^2]  
+[  0   0   0   0   1   0   0   w w^2 w^2]  
+[  0   0   0   0   0   1   0   0   1   1]  
+[  0   0   0   0   0   0   1   1   1   w]  
+_______________________________________
+
+n=11
+
+[11, 3, 6] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0 w^2 w^2   1 w^2   1   0   0   0]  
+[  0   1   0   0   1   1   1   1   1   0   0]  
+[  0   0   1   1   0   w   w w^2 w^2   0   0]  
+
+[11, 4, 6] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   0   1   w w^2   w   1 w^2   1]  
+[  0   1   0   0   1   1   1   1   w w^2   0]  
+[  0   0   1   0   1 w^2 w^2   1   0   1 w^2]  
+[  0   0   0   1 w^2 w^2   1   0   1 w^2 w^2]  
+
+[11, 5, 5] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   0   0   w   0   w w^2 w^2   0]  
+[  0   1   0   0   0   w w^2   1   1   1   1]  
+[  0   0   1   0   0   0   w   w w^2   1   w]  
+[  0   0   0   1   0   1   w   w   1   0 w^2]  
+[  0   0   0   0   1   w   w   1 w^2 w^2   w]  
+
+[11, 6, 4] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   0   0   w   0   w   1 w^2   1]  
+[  0   1   0   0   0   0   0   1   w w^2   w]  
+[  0   0   1   0   0   0   0 w^2   w   0 w^2]  
+[  0   0   0   1   0   1   0   0 w^2   w   0]  
+[  0   0   0   0   1   1   0   1   0 w^2 w^2]  
+[  0   0   0   0   0   0   1   1   w   w w^2]  
+
+[11, 7, 4] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   0   0   0   0 w^2 w^2 w^2   1]  
+[  0   1   0   0   0   0   0   w w^2   w   w]  
+[  0   0   1   0   0   0   0   1   w w^2   0]  
+[  0   0   0   1   0   0   0   1   0 w^2   w]  
+[  0   0   0   0   1   0   0   0   w   1 w^2]  
+[  0   0   0   0   0   1   0   0   1   1   1]  
+[  0   0   0   0   0   0   1   0   1   w w^2]  
+
+[11, 8, 3] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   0   0   0   0   0   1   w   1]  
+[  0   1   0   0   0   0   0   0 w^2 w^2 w^2]  
+[  0   0   1   0   0   0   0   0   w   1   0]  
+[  0   0   0   1   0   0   0   0 w^2   w   1]  
+[  0   0   0   0   1   0   0   0   w   0   1]  
+[  0   0   0   0   0   1   0   0 w^2   1   w]  
+[  0   0   0   0   0   0   1   0   0   1   1]  
+[  0   0   0   0   0   0   0   1   1   1   w]  
+_______________________________________
+
+n=12
+
+[12, 3, 8] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   w w^2   w w^2   w   w   1   w   w]  
+[  0   1   0   w w^2   1   0 w^2   w   0 w^2 w^2]  
+[  0   0   1   0   1 w^2 w^2 w^2   0 w^2   w   w]  
+
+[12, 4, 7] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   w   0   w   1 w^2   0   w   0   1]  
+[  0   1   0   w   0   1   w   w   0 w^2   1   0]  
+[  0   0   1   0   0 w^2   0   1 w^2   w   1 w^2]  
+[  0   0   0   0   1   0 w^2   w w^2   1 w^2   1]  
+
+[12, 5, 6] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   0   0 w^2 w^2   0   w w^2   0   1]  
+[  0   1   0   0   0   w   w   1   w   w w^2   w]  
+[  0   0   1   0   0   w w^2   w w^2   w   w   1]  
+[  0   0   0   1   0   w w^2   1   0 w^2   w   0]  
+[  0   0   0   0   1   0   1 w^2 w^2 w^2   0 w^2]  
+
+[12, 6, 5] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   0   0   0   w   1 w^2   w   w   1]  
+[  0   1   0   0   0   0 w^2   w   0   1   1 w^2]  
+[  0   0   1   0   0   0   w   0   1 w^2   1   w]  
+[  0   0   0   1   0   0   w   w   w   0   0   1]  
+[  0   0   0   0   1   0   w w^2   1   0 w^2   w]  
+[  0   0   0   0   0   1   0   w w^2   1   w   w]  
+
+[12, 7, 4] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   0   0   0   w   0   1   1   0   1]  
+[  0   1   0   0   0   0   1   0 w^2   w w^2   0]  
+[  0   0   1   0   0   0   w   0   w   0   0   w]  
+[  0   0   0   1   0   0 w^2   0   1 w^2   w   0]  
+[  0   0   0   0   1   0   w   0   0 w^2   1   w]  
+[  0   0   0   0   0   1   0   0   w   1 w^2   w]  
+[  0   0   0   0   0   0   0   1   0 w^2 w^2 w^2]  
+
+[12, 8, 4] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   0   0   0   0   0   w   w   0   w]  
+[  0   1   0   0   0   0   0   0   w   0 w^2   w]  
+[  0   0   1   0   0   0   0   0 w^2   w w^2   w]  
+[  0   0   0   1   0   0   0   0   0 w^2   w   1]  
+[  0   0   0   0   1   0   0   0   w   w   1   1]  
+[  0   0   0   0   0   1   0   0   1   1   w   w]  
+[  0   0   0   0   0   0   1   0   0   1   1   1]  
+[  0   0   0   0   0   0   0   1   1   w   w w^2]  
+
+[12, 9, 3] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   0   0   0   0   0   0   1   0   w]  
+[  0   1   0   0   0   0   0   0   0   w w^2   0]  
+[  0   0   1   0   0   0   0   0   0   0   w w^2]  
+[  0   0   0   1   0   0   0   0   0 w^2   w   0]  
+[  0   0   0   0   1   0   0   0   0   1   1   w]  
+[  0   0   0   0   0   1   0   0   0   1 w^2   w]  
+[  0   0   0   0   0   0   1   0   0   w   1   w]  
+[  0   0   0   0   0   0   0   1   0   0   1   1]  
+[  0   0   0   0   0   0   0   0   1   1   0 w^2]  
+_______________________________________
+
+n=13
+
+[13, 3, 8] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   w w^2   w w^2   w   w   1   w   w   0]  
+[  0   1   0   w w^2   1   0 w^2   w   0 w^2 w^2   0]  
+[  0   0   1   0   1 w^2 w^2 w^2   0 w^2   w   w   0]  
+
+[13, 4, 7] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   0   1   1   w   0   w   1   w w^2   0]  
+[  0   1   0   0   1   0   1   w w^2 w^2   w   1   0]  
+[  0   0   1   0   0 w^2 w^2 w^2 w^2   1 w^2   0   0]  
+[  0   0   0   1 w^2 w^2   1 w^2   0   0   w   1   0]  
+
+[13, 5, 6] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   0   0   0 w^2   0 w^2   w   w   w   0]  
+[  0   1   0   0   0   0   0   w   w w^2   0 w^2 w^2]  
+[  0   0   1   0   0   0   1 w^2   w w^2   1   0   0]  
+[  0   0   0   1   0   0   1   w w^2   w   1   1 w^2]  
+[  0   0   0   0   1   0   1   w   w   1   0   1   w]  
+
+[13, 6, 6] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   0   0 w^2   0   1   0 w^2   w   w   0]  
+[  0   1   0   0   0   1   0   w   w w^2   1   0 w^2]  
+[  0   0   1   0   0   w   0   0   1   w   w   w   w]  
+[  0   0   0   1   0   w   0   w w^2   w w^2   1 w^2]  
+[  0   0   0   0   1 w^2   0 w^2 w^2   0   1   1 w^2]  
+[  0   0   0   0   0   0   1   w   1   w   1   w w^2]  
+
+[13, 7, 5] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   0   0   0   0 w^2 w^2 w^2   0   0   1]  
+[  0   1   0   0   0   0   0   0   1   0 w^2   1 w^2]  
+[  0   0   1   0   0   0   0   1   0   1   1   w   0]  
+[  0   0   0   1   0   0   0 w^2 w^2   0   0   w w^2]  
+[  0   0   0   0   1   0   0   0   1 w^2   1   0 w^2]  
+[  0   0   0   0   0   1   0   1   w w^2   1 w^2   0]  
+[  0   0   0   0   0   0   1   1 w^2   w   0   1   1]  
+
+[13, 8, 4] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   0   0   0   0   0   w   w   0   w   0]  
+[  0   1   0   0   0   0   0   0   w   0 w^2   w   0]  
+[  0   0   1   0   0   0   0   0 w^2   w w^2   w   0]  
+[  0   0   0   1   0   0   0   0   0 w^2   w   1   0]  
+[  0   0   0   0   1   0   0   0   w   w   1   1   0]  
+[  0   0   0   0   0   1   0   0   1   1   w   w   0]  
+[  0   0   0   0   0   0   1   0   0   1   1   1   0]  
+[  0   0   0   0   0   0   0   1   1   w   w w^2   0]  
+
+[13, 9, 4] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   0   0   0   0   0   0 w^2 w^2   w   1]  
+[  0   1   0   0   0   0   0   0   0   1   0 w^2 w^2]  
+[  0   0   1   0   0   0   0   0   0   w   0   w w^2]  
+[  0   0   0   1   0   0   0   0   0   w   0 w^2   w]  
+[  0   0   0   0   1   0   0   0   0 w^2   w w^2 w^2]  
+[  0   0   0   0   0   1   0   0   0 w^2   1   1   0]  
+[  0   0   0   0   0   0   1   0   0 w^2   w   1   1]  
+[  0   0   0   0   0   0   0   1   0   0   1   1   1]  
+[  0   0   0   0   0   0   0   0   1   1   1   w w^2]  
+
+[13, 10, 3] Linear Code over GF(2^2)  
+Generator matrix:  
+[  1   0   0   0   0   0   0   0   0   0   0 w^2   1]  
+[  0   1   0   0   0   0   0   0   0   0   w w^2 w^2]  
+[  0   0   1   0   0   0   0   0   0   0   1 w^2   0]  
+[  0   0   0   1   0   0   0   0   0   0   w   w   1]  
+[  0   0   0   0   1   0   0   0   0   0 w^2   0 w^2]  
+[  0   0   0   0   0   1   0   0   0   0   0   1 w^2]  
+[  0   0   0   0   0   0   1   0   0   0 w^2   w w^2]  
+[  0   0   0   0   0   0   0   1   0   0 w^2   1   w]  
+[  0   0   0   0   0   0   0   0   1   0   0   1   1]  
+[  0   0   0   0   0   0   0   0   0   1   1   1   w]  
+
+
+
+
