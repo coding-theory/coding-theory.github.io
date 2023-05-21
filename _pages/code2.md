@@ -877,7 +877,7 @@ Generator matrix:
 [  0   0   1   0   0 w^2 w^2   1 w^2   1   0]  
 [  0   0   0   1   w   w   1   w   w   0   0]  
 
-[11, 5, 5] Linear Code over GF(2^2)   hull=4
+[11, 5, 5] Linear Code over GF(2^2)  
 Generator matrix:  
 [  1   0   0   0   0 w^2   0   w w^2   0   1]  
 [  0   1   0   0   0 w^2   1   0   0 w^2 w^2]  
@@ -885,7 +885,7 @@ Generator matrix:
 [  0   0   0   1   0   0   1 w^2   w   1   0]  
 [  0   0   0   0   1   w   w w^2   w   0   0]  
 
-[11, 6, 4] Linear Code over GF(2^2)   hull=4
+[11, 6, 4] Linear Code over GF(2^2)  
 Generator matrix:  
 [  1   0   0   0   0   0   1   0 w^2 w^2   0]  
 [  0   1   0   0   0   0   w   1   0   0 w^2]  
