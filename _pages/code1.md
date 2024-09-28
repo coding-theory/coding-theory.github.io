@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
+Database for the paper “Tingting Tong, Shitao Li, Minjia Shi, Characterization and classification of optimal ternary linear one-dimensional hull codes, Journal of Applied Mathematics and Computing, 2024, https://doi.org/10.1007/s12190-024-02192-3.”
 
 ## Ternary linear codes with one-dimensional hull for $n\leq 20$
 
